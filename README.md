@@ -17,7 +17,7 @@ This repository contains the front-end code for the Login and Registration forms
 ## Setup & Usage
 Clone the Repository or Download it:
 ```
-git clone https://github.com/khdxsohee/mechanic-auth.git
+git clone https://github.com/farhan-swe/mechanic-auth.git
 ```
 
 Navigate to Project Directory:
